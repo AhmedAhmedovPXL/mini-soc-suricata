@@ -2,9 +2,6 @@
 
 > A simulated Security Operations Center (SOC) built as part of the Advanced Security course at PXL Hogeschool.
 
-## 👥 Team
-- Ahmed Ahmedov
-
 ---
 
 ## 📌 Project Overview
