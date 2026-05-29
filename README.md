@@ -4,7 +4,6 @@
 
 ## 👥 Team
 - Ahmed Ahmedov
-- Hakki Özdemir
 
 ---
 
