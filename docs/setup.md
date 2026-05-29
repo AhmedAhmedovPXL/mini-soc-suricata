@@ -62,8 +62,8 @@ sudo systemctl start grafana-server
 
 ### 6. Clone Repository
 ```bash
-git clone https://github.com/PXL-SNE-Security-Adv/integrated-security-assignment-team-a03.git
-cd integrated-security-assignment-team-a03
+git clone https://github.com/AhmedAhmedovPXL/mini-soc-suricata.git
+cd mini-soc-suricata
 ```
 
 ### 7. Make scripts executable
