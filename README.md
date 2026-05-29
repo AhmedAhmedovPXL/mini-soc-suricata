@@ -2,6 +2,12 @@
 
 > A simulated Security Operations Center (SOC) built as part of the Advanced Security course at PXL Hogeschool.
 
+![Suricata](https://img.shields.io/badge/Suricata-IDS%2FIPS-orange?style=flat-square)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-Search%20%26%20Analytics-005571?style=flat-square&logo=elasticsearch)
+![Grafana](https://img.shields.io/badge/Grafana-Monitoring-F46800?style=flat-square&logo=grafana)
+![Python](https://img.shields.io/badge/Python-Autoblock-3776AB?style=flat-square&logo=python)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=flat-square&logo=ubuntu)
+
 ---
 
 ## 📌 Project Overview
@@ -80,12 +86,6 @@ See [docs/setup.md](docs/setup.md) for the full installation guide.
 - **Real-time dashboarding** – Grafana dashboard connected to Elasticsearch for live alert visualization
 - **Human-readable reporting** – shell script generates a clean summary of detected threats
 - **Realistic attack simulation** – full attacker/defender VM setup mimicking a real network environment
-
----
-
-## 📹 Recordings
-
-- [Presentatie (PowerPoint)](https://hogeschoolpxl-my.sharepoint.com/:p:/r/personal/12300457_student_pxl_be/_layouts/15/Doc.aspx?sourcedoc=%7BD5637C58-C00B-45F9-9CD5-F532315EDB90%7D&file=MINI_SOC_final.pptx&action=edit&mobileredirect=true)
 
 ---
 
